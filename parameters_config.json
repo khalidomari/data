@@ -339,7 +339,7 @@
         },
         {
             "classifier": "sklearn.linear_model.LogisticRegressionCV",
-            "name": "Logistic Regression C V",
+            "name": "Logistic Regression CV",
             "default_values": [
                 {
                     "key": "Cs",
@@ -557,7 +557,7 @@
         },
         {
             "classifier": "sklearn.linear_model.RidgeClassifierCV",
-            "name": "Ridge Classifier C V",
+            "name": "Ridge Classifier CV",
             "default_values": [
                 {
                     "key": "alphas",
@@ -588,7 +588,7 @@
         },
         {
             "classifier": "sklearn.linear_model.SGDClassifier",
-            "name": "S G D Classifier",
+            "name": "SGD Classifier",
             "default_values": [
                 {
                     "key": "alpha",
@@ -675,7 +675,7 @@
         },
         {
             "classifier": "sklearn.naive_bayes.BernoulliNB",
-            "name": "Bernoulli N B",
+            "name": "Bernoulli NB",
             "default_values": [
                 {
                     "key": "alpha",
@@ -697,7 +697,7 @@
         },
         {
             "classifier": "sklearn.naive_bayes.ComplementNB",
-            "name": "Complement N B",
+            "name": "Complement NB",
             "default_values": [
                 {
                     "key": "alpha",
@@ -719,7 +719,7 @@
         },
         {
             "classifier": "sklearn.naive_bayes.GaussianNB",
-            "name": "Gaussian N B",
+            "name": "Gaussian NB",
             "default_values": [
                 {
                     "key": "var_smoothing",
@@ -731,7 +731,7 @@
         },
         {
             "classifier": "sklearn.naive_bayes.MultinomialNB",
-            "name": "Multinomial N B",
+            "name": "Multinomial NB",
             "default_values": [
                 {
                     "key": "alpha",
@@ -748,7 +748,7 @@
         },
         {
             "classifier": "sklearn.neural_network.MLPClassifier",
-            "name": "M L P Classifier",
+            "name": "MLP Classifier",
             "default_values": [
                 {
                     "key": "activation",
@@ -862,7 +862,7 @@
         },
         {
             "classifier": "sklearn.svm.LinearSVC",
-            "name": "Linear S V C",
+            "name": "Linear SVC",
             "default_values": [
                 {
                     "key": "C",
@@ -919,7 +919,7 @@
         },
         {
             "classifier": "sklearn.svm.NuSVC",
-            "name": "Nu S V C",
+            "name": "Nu SVC",
             "default_values": [
                 {
                     "key": "cache_size",
@@ -986,7 +986,7 @@
         },
         {
             "classifier": "sklearn.svm.SVC",
-            "name": "S V C",
+            "name": "SVC",
             "default_values": [
                 {
                     "key": "C",
